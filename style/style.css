@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin: 0 25px;
+}
+header{
+    border-bottom: solid darkblue 1px ;
+    padding: 20px;
+    color: darkblue;
+}
+nav{
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: bold;
+    max-width: 1024px;
+    padding: 20px;
+    text-align: justify;
+}
+aside{
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+article{
+
+}
+h3{
+    margin: 25px 10px;
+}
+footer{
+    height: 30px;
+}
+p{
+    font-size: 18px;
+}
