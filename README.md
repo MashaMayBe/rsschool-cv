@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/MashaMayBe/rsschool-cv/blob/gh-pages/cv
+
+https://MashaMayBe.github.io/rsschool-cv/cv
