@@ -5,6 +5,9 @@
    Tel: +375293870491  
    Mail: Baturina_m98@mail.ru  
 ##Summary  
+   I'm purposeful, responsible, stress resistant.  
+   I learn quickly, easily perceive information.  
+   Also I'm attentive to little things.  
 ##Skills  
    C#, html, css, js, php, jquery, ajax - know the basics  
    Photoshop, 3dmax - average level  
