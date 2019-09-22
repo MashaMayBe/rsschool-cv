@@ -1,3 +1,4 @@
+ #CV
  ##First Name, Last Name
    Masha Baturina
 ##Contact Info
@@ -7,6 +8,7 @@
 ##Skills
    C#, html, css, js, php, jquery, ajax - know the basics
    Photoshop, 3dmax - average level
+   MS Office - advanced level
 ##Code examples (LATEST)
 ##Experience 
    practice at college and university, term projects, diploma.
